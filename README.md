@@ -1,56 +1,81 @@
-# Statistician/Data Scientist
+# 🌐 Shiv Lala – Portfolio Website
 
-#### Skills: 
-**Programming & Tools**
-R / R Markdown · Python · SQL · R Shiny · Jupyter · Microsoft Office · Adobe
+Welcome to my portfolio! I’m a data scientist and research strategist with a background in public health, statistical modeling, and grant development. This site highlights my projects, skills, and journey transitioning from research management to full-time data science.
 
-Machine Learning & Statistical Modeling
-- Supervised & Unsupervised Learning (Regression, SVM, XGBoost, GBM, Clustering, PCA)
-- Time Series Modeling (ARIMA, SARIMA, Prophet, Seasonal Decomposition)
-- Feature Engineering
-- Recursive Feature Elimination (RFE)
-- Hyperparameter Tuning
-- Model Validation (Train-Test Splits, Cross-Validation)
+## 🔍 About Me
 
-Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Transformation
-- Predictive Modeling
-- Trend & Seasonality Analysis
-- Visualization (ggplot2, base R)
-- Report Writing & Presentations (R Markdown)
+I am a Data Scientist with four years of experience in research strategy and data analytics. My work bridges health research and data science, using tools like **R**, **Python**, and **SQL** to solve real-world problems. I’m passionate about predictive modeling, time series forecasting, and building tools that turn data into decisions.
 
-Soft Skills
-Leadership · Team Collaboration · Project Management · Research Communication · Agile Development · Strategic Thinking · Stakeholder Engagement · Attention to Detail
+- 📍 Based in San Antonio, TX  
+- 🎓 M.S. in Statistics & Data Science (Texas A&M, May 2025)  
+- 🎯 Seeking roles in Data Science, Analytics, or Applied Research  
 
-Languages
-English · Hindi · Gujarati
+## 🛠️ Technologies & Tools
 
-## Education
-- M.S., Statistics and Data Science | Texas A&M University (_May 2025_)								       		
-- B.S., Public Health	| The University of Texas at San Antonio (_May 2021_)
+- **Languages**: R, Python, SQL  
+- **Tools**: R Markdown, Jupyter, R Shiny, Microsoft Office, Adobe  
+- **Techniques**:  
+  - Machine Learning (Regression, SVM, GBM, XGBoost, Clustering)  
+  - Time Series (ARIMA, SARIMA, Prophet, Decomposition)  
+  - Feature Engineering, Model Tuning, Forecasting, RFE  
+  - EDA, Visualization (ggplot2, base R), Reporting  
 
-## Work Experience
-**Pre-Research Manager (_January 2025 - Present_)**
-**Pre-Research Specialist (_May 2021 - January 2025_)**
-- Led development and submission of 300+ competitive grant proposals, securing $10M+ in funding for military medical research; implemented process improvements that increased efficiency and reduced turnaround time.
-- Achieved a cumulative funding success rate of ~18%, exceeding national academic benchmarks.
-- Collaborated with PIs, institutional partners, and sponsors to align proposals with funding priorities; served as a key liaison for strategy and communications.
-- Identified funding opportunities, developed research plans, measurable objectives, and budgets; ensured compliance and alignment with agency guidelines.
-- Created visual and data-driven materials for proposals and internal reporting, including organizational charts, workload stats, and grant performance metrics.
-- Mentored junior staff on policy, budgeting, and compliance, improving team proposal quality and operational consistency.
-- Developed tracking dashboards and performance tools using Excel, R, and internal systems to guide leadership decisions.
-- Represented the department at conferences, workshops, and stakeholder meetings to stay ahead of funding trends and raise institutional visibility.
+## 📁 Featured Projects
 
-## Projects
-### Master's Capstone Project: Prediction of Seoul Bike Rentals 
+### 🚲 Seoul Bike Rental Forecasting  
+**Capstone (Spring 2025)**  
+Improved rental forecast accuracy by 38% over benchmark models using advanced ML and time series techniques in R. Included feature engineering, hyperparameter tuning, and model validation.
 
-Improved predictive accuracy of hourly bike rentals by 38% over published models using advanced machine learning and time series techniques (GBM, XGBoost, SVM, RFE) in **R**. Reproduced literature benchmarks, engineered features, and tuned models to optimize performance. Communicated results via weekly presentations, performance metrics, and visualizations to technical and academic audiences.
+- *Tech stack:* R, XGBoost, GBM, SVM, Prophet, RFE  
+- [View Details](#) or [Project Notebook](#)
 
-### Prediction of Terrorist Attacks in the USA using Applied Analytics 
+---
 
-Led a team of three in a semester-long data science project using the Global Terrorism Database to analyze and forecast terrorist activity in the U.S. Applied K-means clustering and PCA for pattern discovery, and built time series models (ARIMA, Prophet) incorporating holidays and elections as external regressors. Developed an interactive [R Shiny app](https://shivabyte.shinyapps.io/shiny_app/) to present model performance metrics. Managed data cleaning, feature engineering, and validation strategies to ensure model robustness and communicated findings through visual and written outputs to varied audiences.
+### 🛡️ Predicting U.S. Terrorist Attacks  
+**Data Science Project (Fall 2024)**  
+Built forecasting models with external regressors using the Global Terrorism Database. Created an [interactive R Shiny app](https://shivabyte.shinyapps.io/shiny_app/) to explore results.
 
-### Time Series Analysis of J2J Dataset to Forecast Job Mobility
+- *Tech stack:* R, ARIMA, Prophet, PCA, Clustering  
+- [View App](https://shivabyte.shinyapps.io/shiny_app/)
 
-Led a team of five graduate students in a semester-long forecasting project using the U.S. Census Bureau’s J2J dataset (2000–2023) to analyze employment separations in Texas and California. Conducted EDA and preprocessing in **R**, and applied ARMA, SARIMA, and Prophet models to capture seasonal and structural differences across states. Optimized models through hyperparameter tuning and cross-validation to improve forecast accuracy and interpretability. Communicated labor mobility insights through clear visualizations and data narratives for technical and non-technical audiences.
+---
+
+### 🔁 Job Mobility Forecast with J2J Data  
+**Time Series Analysis (Summer 2024)**  
+Forecasted job separations in TX and CA using ARMA, SARIMA, and Prophet. Team-led effort with deep EDA, hyperparameter tuning, and stakeholder-ready visualizations.
+
+- *Tech stack:* R, Prophet, SARIMA  
+- [View Project](#)
+
+---
+
+## 💼 Experience
+
+**Pre-Award Research Manager**  
+*The Metis Foundation | Jan 2025 – Present*  
+**Pre-Award Research Specialist**  
+*The Metis Foundation | May 2021 – Jan 2025*
+
+- Led submission of 300+ grant proposals, securing $10M+ in funding  
+- Built performance dashboards in R and Excel  
+- Increased process efficiency, exceeded funding benchmarks  
+- Mentored team, enhanced internal consistency and quality  
+
+---
+
+## 🎓 Education
+
+**M.S. in Statistics & Data Science**  
+Texas A&M University (Expected May 2025)
+
+**B.S. in Public Health, Epidemiology Concentration**  
+University of Texas at San Antonio (2021)
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [shivlala01@gmail.com](mailto:shivlala01@gmail.com)  
+- 🌐 Website: [shivlala.com](https://shivlala.com)  
+- 💼 LinkedIn: [linkedin.com/in/shivlala](https://linkedin.com/in/shivlala)
+
