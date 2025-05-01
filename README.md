@@ -1,14 +1,24 @@
 # Statistician/Data Scientist
 
 #### Skills: 
-Programming & Tools
+**Programming & Tools**
 R / R Markdown · Python · SQL · R Shiny · Jupyter · Microsoft Office · Adobe
 
 Machine Learning & Statistical Modeling
-Supervised & Unsupervised Learning (Regression, SVM, XGBoost, GBM, Clustering, PCA) · Time Series Modeling (ARIMA, SARIMA, Prophet, Seasonal Decomposition) · Feature Engineering · Recursive Feature Elimination (RFE) · Hyperparameter Tuning · Forecasting · Model Validation (Train-Test Splits, Cross-Validation) · Use of External Regressors
+- Supervised & Unsupervised Learning (Regression, SVM, XGBoost, GBM, Clustering, PCA)
+- Time Series Modeling (ARIMA, SARIMA, Prophet, Seasonal Decomposition)
+- Feature Engineering
+- Recursive Feature Elimination (RFE)
+- Hyperparameter Tuning
+- Model Validation (Train-Test Splits, Cross-Validation)
 
 Data Analysis & Visualization
-Exploratory Data Analysis (EDA) · Data Cleaning & Transformation · Predictive Modeling · Trend & Seasonality Analysis · Visualization (ggplot2, base R) · Report Writing & Presentations (R Markdown)
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Predictive Modeling
+- Trend & Seasonality Analysis
+- Visualization (ggplot2, base R)
+- Report Writing & Presentations (R Markdown)
 
 Soft Skills
 Leadership · Team Collaboration · Project Management · Research Communication · Agile Development · Strategic Thinking · Stakeholder Engagement · Attention to Detail
