@@ -1,1 +1,5 @@
-# portfolio
+# Statisitician/Data Scientist
+
+### Education
+
+### Work Experience 
