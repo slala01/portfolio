@@ -1,15 +1,20 @@
 # Statistician/Data Scientist
 
 #### Skills: 
-Programming Languages/Computer Software: R/R Markdown| Python | SQL | R Shiny | Jupyter | Microsoft Office | Adobe
+Programming & Tools
+R / R Markdown · Python · SQL · R Shiny · Jupyter · Microsoft Office · Adobe
 
-Machine Learning & Statistical Modeling: Supervised & Unsupervised Learning (Regression, SVM, XGBoost, GBM, Clustering, PCA) | Time Series Modeling (ARIMA, SARIMA, Prophet, Seasonal Decomposition) | Feature Engineering, Recursive Feature Elimination (RFE), Hyperparameter Tuning | Forecasting, Model Validation (Train-Test Splits, Cross-Validation), External Regressors
+Machine Learning & Statistical Modeling
+Supervised & Unsupervised Learning (Regression, SVM, XGBoost, GBM, Clustering, PCA) · Time Series Modeling (ARIMA, SARIMA, Prophet, Seasonal Decomposition) · Feature Engineering · Recursive Feature Elimination (RFE) · Hyperparameter Tuning · Forecasting · Model Validation (Train-Test Splits, Cross-Validation) · Use of External Regressors
 
-Data Analysis & Visualization: Exploratory Data Analysis (EDA), Data Cleaning & Transformation | Predictive Modeling, Trend & Seasonality Analysis | Visualization using ggplot2, base R | Report Writing & Presentations in R Markdown 
+Data Analysis & Visualization
+Exploratory Data Analysis (EDA) · Data Cleaning & Transformation · Predictive Modeling · Trend & Seasonality Analysis · Visualization (ggplot2, base R) · Report Writing & Presentations (R Markdown)
 
-Soft Skills: Leadership & Team Collaboration | Project Management | Research Communication | Agile & Iterative Development | Strategic Thinking | Attention to Detail | Stakeholder Engagement
+Soft Skills
+Leadership · Team Collaboration · Project Management · Research Communication · Agile Development · Strategic Thinking · Stakeholder Engagement · Attention to Detail
 
-Languages:  English | Hindi | Gujarati
+Languages
+English · Hindi · Gujarati
 
 ## Education
 - M.S., Statistics and Data Science | Texas A&M University (_May 2025_)								       		
